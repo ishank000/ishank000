@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ishank000
-- 👀 I’m interested in coding photography 
+- 👀 I’m interested in coding & photography 
 - 🌱 I’m currently learning C,Python,Java
 - 💞️ I’m looking to collaborate on project,open source
 - 📫 How to reach me my gmail - sahniishank@gmail.com
